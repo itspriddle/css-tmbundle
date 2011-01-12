@@ -16,10 +16,10 @@ can fold groups.
 
 ## Installation
 
-    cd ~/Library/Application\ Support/TextMate/Bundles/`.
+    cd ~/Library/Application\ Support/TextMate/Bundles/
     git clone git://github.com/itspriddle/css-tmbundle.git CSS.tmbundle
 
 
 ## Credit
 
-http://css-tricks.com/forums/discussion/2783/foldable-textmate-css-groups-i.e.-cssedit/p1
+<http://css-tricks.com/forums/discussion/2783/foldable-textmate-css-groups-i.e.-cssedit/p1>
